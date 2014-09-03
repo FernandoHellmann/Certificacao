@@ -16,7 +16,7 @@ public abstract class Apple extends Fruit {
 
 
 	public String nome() {
-		return "Apple";
+		return "iPhone";
 	}
 
 }
